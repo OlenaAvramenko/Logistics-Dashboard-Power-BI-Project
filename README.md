@@ -5,6 +5,7 @@ A Power BI project showcasing key logistics and sales metrics across three repor
 ---
 
 ## 📊 Page 1: General Sales Overview
+![Overview](page1-overview.jpg)
 
 A baseline dashboard displaying overall performance:
 
@@ -17,6 +18,7 @@ A baseline dashboard displaying overall performance:
 ---
 
 ## 🎯 Page 2: Discounted Sales (≥10%) and Online Orders
+![Discount](page2-discount-online.jpg)
 
 A focused report page for analyzing transactions with significant discounts:
 
@@ -27,6 +29,7 @@ A focused report page for analyzing transactions with significant discounts:
 ---
 
 ## 🚚 Page 3: Logistics Team Report
+![Logistics](page3-logistics-report.jpg)
 
 Designed for a logistics manager to monitor operational aspects:
 
